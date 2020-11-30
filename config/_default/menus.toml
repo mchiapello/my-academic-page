@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Courses"
-  url = "/courses"
+  url = "/talks"
   weight = 46
 
 [[main]]
