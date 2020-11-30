@@ -1,55 +1,69 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marco Chiapello, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Plant Biologist, Bioinformatician, Teacher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Italian National Research Council 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Plant-microbe interaction
+- Computational Biology
+- Omics integration
+- Open Science
+- Reproducible research
+- Teaching computer literacy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Fungal Biology and Biotechnology
+    institution: University of Turin, Italy
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Plant Biotecnology
+    institution: University of Turin, Italy
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7768-3047
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=it&user=0tYcTcEAAAAJ
+- icon: impactstory
+  icon_pack: ai
+  link: https://impactstory.org/u/0000-0001-7768-3047
+- icon: grip-lines-vertical
+  icon_pack: fas
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:chiapello.m@gmail.com"
+- icon: keybase
+  icon_pack: fab
+  link: https://keybase.io/mchiapello
+- icon: grip-lines-vertical
+  icon_pack: fas
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mchiapello
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/marco-chiapello-20b58750/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +83,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am **currently working as Senior PostDoc** at the Institute for Sustainable Plant Protection (Italian National Research Council). My daily focus is on **bioinformatics analysis** and **method standardization** for plant and fungal virus identification from NGS samples. I am a big **supporter of reproducible and open research**. My main tools are R, git, vim and docker.
+I am a **curious person** and a **dedicated worker**, I love the challenges of **computational biology** and teaching the principle of **data analysis and visualization**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
