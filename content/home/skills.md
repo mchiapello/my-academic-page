@@ -13,24 +13,41 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
+   
+[[feature]]
+  icon = "seedling"
+  icon_pack = "fas"
+  name = "Plant Biology"
+  
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Molecular Biology"
+  
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Computational Biology"
+  
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data Visualization"
+    
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching"
 
 # Uncomment to use emoji icons.
 # [[feature]]
@@ -49,3 +66,4 @@ subtitle = ""
 #  description = "90%"
 
 +++
+
