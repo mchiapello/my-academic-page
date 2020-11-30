@@ -48,25 +48,12 @@ subtitle = ""
 +++
 
 
-I am originally from Atlanta, Georgia, and am a proud ramblin' wreck from [Georgia Tech](https://www.gatech.edu/). I received my PhD in psychology and quantitative methods from Vanderbilt University in 2008. Prior to joining RStudio, I was an Assistant Professor at Arizona State University, and an Associate Professor at Oregon Health & Science University (OHSU). At OHSU, I was an NIH-funded Principal Investigator and an Assistant Center Director.
+## Attività di ricerca
 
-<img src="001.jpg" class="center-block" alt="OHSU Research Week Poster" style="width:100%;">
+La mia attività di ricera e' stata caratterizzata da due forze trainanti: l'interazione e le tecniche -omiche. Nei primi hanno della mia carriera mi sono concentrato sull'interazione di un fungo ericoide (Oidiodendron maius) e i metalli pesanti inquinanti del suolo (Cd e Zn). La tecnica utilizzata per lo studio e' stata la proteomica (in particolare l'utilizzo di gel bidimensionali), la difficile messa a punto della tecnica, sia da un punto di vista tecnico sia da un punto di vista sperimentale, mi ha permesso di apprendere la tecnica in maniera approfondita e mi ha dato l'opportunità di fare uno stage di perfezionamento di 3 mesi presso il laboratorio della Prof. M. Kapoor all'Univarsità di Calgari, Canada. 
+Mi sono successivamente interessato di un altro tipo di interazione: le simbiosi micorriziche arbuscolari. Il periodo passato a lavorare sul progetto "Towards deciphering plant-fungal dialogues", presso il laboratorio della Prof.ssa U. Paszkowski all'Universit|  di Losanna, Svizzera e' stato uno dei pià formativi, complicati e soddisfacenti della mia carriera. L'ambizioso progetto aveva l'obiettivo di identificare il proteoma della membrana peri-arbuscolare. Sotto la guida scientifica dalla Prof. Paszkowski e la mie conoscenze di proteomica siamo riusciti a mettere a punto una tecnica che ci ha permesso di identificare molte delle proteine presenti sulla membrana peri-arbuscolare. Durante l'analisi dei dati prodotti dagli esperimenti di spettrometria di massa per l'identificazione proteica, ho cominciato ad appassionarmi di analisi dati, che con il tempo sarebbe diventata la terza forza trainante della mia carriera scientifica.
+Rientrato in Italia ho lavorato per due anni nel laboratorio del Prof. A. Genre dell'Università degli Studi di Torino su divesi progetti che avevano l'obiettivo di identificare il proteoma durante le primissime fasi della colonizzazione micorrizica arbuscolare. Negli stessi anni comincio a studiare ad utilizzare il software statistico R. Nel 2015, vengo invitato all'Università degli Studi dell'Insubria per lavorare come bioinformatico sia per mettere a punto il laboratorio di bioinformatica, sia per contribuire all'analisi dati di un progetto della fondazione Agropolis. 
+Nei 2 anni successivi completo la mia formazione da bioinformatico presso il Centro di Proteomica dell'Università di Cambridge (UK), sotto la guida del Prof. L. Gatto. Presso il Centro di PRoteomica mi occupo di analisi dati per i ricercartori e i clienti del Centro. Collaboro con diversi ricercatori dell'Università che si occupano di Biologia Vegetale tra cui anche la Prof. U. Paszkowski che nel frattempo si era spostasta all'Università di Cambridge. 
+Alla fine del 2018 decido di interrompere il contratto presso l'Università di Cambridge e tornare in Italia, dove dopo una breve esperienza nel mondo della business analysis, capisco che l'amore per la biologia vegetale e' più forte di qualsiasi sicurezza lavorativa. Ho iniziato a lavorare nel luglio 2018 presso il CNR di Torino, Istituto per la protezione sostenibile delle piante, nel laboratorio del Dott. M. Turina come bioinformatico su un progetto H2020 che mi vede impegnato nell'analisi di dati di metatranscrittomica per identificare il viroma di piante, funghi ed insetti.
+Nel novembre 2020 ho ricevuto l'Abilitazione Scientica Nazionale per il settore 05/A1 (https://asn18.cineca.it/pubblico/miur/esito/05%252FA1/2/5).
 
-
-My [research](https://profiles.impactstory.org/u/0000-0002-8082-1890) focused on health-related applications of Natural Language Processing-based methods, and was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks. I have written numerous scientific [publications](/publication) on autism and neurodevelopmental disorders and have presented my research at over 25 international conferences.
-
-<img src="students2.jpg" class="center-block" alt="Lab meeting" style="width:60%;">
-
-While at OHSU, I became an avid user of the statistical programming language R, both in the lab as a Principal Investigator and in the classroom as a professor. I developed a passion for programming and education, and during my tenure at OHSU I developed and taught multiple graduate-level [data science courses](/categories/course/) and [workshops](/categories/workshop/). 
-
-<img src="ropensci.jpg" class="center-block" alt="ROpenSci Unconference" style="width:60%;">
-
-
-I also trained the [Office of Research Impact at the Oregon Clinical & Translational Research Institute](https://www.ohsu.edu/xd/research/centers-institutes/octri/) to use R, and consulted with the University of Oregon College of Education on the development of a [graduate data science specialization track](https://education.uoregon.edu/). I received an [Excellence in Education award](https://www.ohsu.edu/school-of-medicine/honors-and-awards-ceremony-2018-school-medicine) from OHSU in 2018.
-
-<img src="czi-breakouts.jpg" class="center-block" alt="CZI huddle" style="width:60%;">
-
-My teaching materials have been used by [NASA](https://open.nasa.gov/explore/datanauts/), [Pew Research Center](https://medium.com/pew-research-center-decoded/using-tidyverse-tools-with-pew-research-center-survey-data-in-r-bdfe61de0909), [University of Oregon](https://github.com/uo-datasci-specialization), and now [RStudio](https://www.rstudio.com/). I am also a co-author of the book [_blogdown: Creating Websites with R Markdown_](https://bookdown.org/yihui/blogdown/).
-
-
-Thank you so much for reading.
