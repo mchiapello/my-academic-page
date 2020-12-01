@@ -49,14 +49,6 @@ social:
   link: https://impactstory.org/u/0000-0001-7768-3047
 - icon: grip-lines-vertical
   icon_pack: fas
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:chiapello.m@gmail.com"
-- icon: keybase
-  icon_pack: fab
-  link: https://keybase.io/mchiapello
-- icon: grip-lines-vertical
-  icon_pack: fas
 - icon: github
   icon_pack: fab
   link: https://github.com/mchiapello

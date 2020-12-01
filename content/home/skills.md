@@ -25,14 +25,64 @@ subtitle = ""
   name = "Molecular Biology"
   
 [[feature]]
-  icon = "laptop-code"
+  icon = "vials"
   icon_pack = "fas"
-  name = "Computational Biology"
+  name = "Wet Lab"
+  
+[[feature]]
+  icon = "disease"
+  icon_pack = "fas"
+  name = "Microbiology"
+  
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
+  
+[[feature]]
+  icon = "creative-commons"
+  icon_pack = "fab"
+  name = "Open Source"
+  
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "Reproducible Research"
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+  
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  
+[[feature]]
+  icon = "gitlab"
+  icon_pack = "fab"
+  name = "GitLab"
+  
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+  
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Computational Biology"
   
 [[feature]]
   icon = "chart-line"
@@ -45,9 +95,49 @@ subtitle = ""
   name = "Data Visualization"
     
 [[feature]]
+  icon = "apple"
+  icon_pack = "fab"
+  name = "Mac"
+    
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+    
+[[feature]]
+  icon = "windows"
+  icon_pack = "fab"
+  name = "Windows"
+    
+[[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
+    
+[[feature]]
+  icon = "exchange-alt"
+  icon_pack = "fas"
+  name = "Collaborations"
+
+[[feature]]
+  icon = "paper-plane"
+  icon_pack = "fas"
+  name = "Travel"
+
+[[feature]]
+  icon = "snowboarding"
+  icon_pack = "fas"
+  name = "Snowboard"
+
+[[feature]]
+  icon = "biking"
+  icon_pack = "fas"
+  name = "Bike"
+
+[[feature]]
+  icon = "volleyball-ball"
+  icon_pack = "fas"
+  name = "Volleyball"
 
 # Uncomment to use emoji icons.
 # [[feature]]
