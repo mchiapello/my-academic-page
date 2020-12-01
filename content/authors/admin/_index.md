@@ -10,8 +10,8 @@ role: Plant Biologist, Bioinformatician, Teacher
 
 # Organizations/Affiliations
 organizations:
-- name: Italian National Research Council 
-  url: ""
+- name: Institute for Sustainable Plant Protection, National Research Council 
+  url: "http://www.ipsp.cnr.it/?lang=en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
