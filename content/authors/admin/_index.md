@@ -47,8 +47,6 @@ social:
 - icon: impactstory
   icon_pack: ai
   link: https://impactstory.org/u/0000-0001-7768-3047
-- icon: grip-lines-vertical
-  icon_pack: fas
 - icon: github
   icon_pack: fab
   link: https://github.com/mchiapello
