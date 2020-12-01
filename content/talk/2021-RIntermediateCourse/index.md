@@ -5,7 +5,7 @@ authors:
   - Marco Chiapello
 event: 'Online workshop'
 event_url: https://ipsp-cnr-bioinformatics.github.io/2020-Intermidiate-R-CNR/
-location: ""
+location: "Institute for Sustainable Plant Protection, National Research Council"
 abstract: ""
 summary: "How to step forward in your R analysis with biological samples"
 
