@@ -1,7 +1,7 @@
 ---
 header:
   caption: ""
-  image: ""
+  image: "background.jpg"
 title: All Talks & Workshops
 view: 2
 ---
