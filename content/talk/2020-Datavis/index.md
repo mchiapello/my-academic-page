@@ -1,19 +1,19 @@
 ---
-title: Bioinformatics analysis of viromes
+title: How uncertainty is represented
 draft: false
 authors: 
   - Marco Chiapello
-event: 'Online workshop'
-event_url: https://ipsp-cnr-bioinformatics.github.io/2020-Intermidiate-R-CNR/
+event: 'Workshop'
+event_url: https://ipsp-cnr-bioinformatics.github.io/monthlyMeetings/Presentations/20200211/20200211.html#1
 location: "Institute for Sustainable Plant Protection, National Research Council"
 abstract: ""
-summary: "Pipeline for identification of viruses starting from NGS data"
+summary: "Points of Significance - Nature Methods"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-28"
-date_end: "2021-01-28"
-all_day: true
+date: "2020-02-11"
+date_end: "2020-02-11"
+all_day: false
 
 categories:
   - talk
@@ -28,11 +28,11 @@ links:
 - icon: satellite-dish
   icon_pack: fas
   name: website
-  url: "https://mchiapello.github.io/202010_VirusDetection/"
+  url: "https://ipsp-cnr-bioinformatics.github.io/monthlyMeetings/Presentations/20200211/20200211.html#1"
 - icon: github
   icon_pack: fab
   name: materials
-  url: "https://github.com/mchiapello/202010_VirusDetection"
+  url: "https://github.com/IPSP-CNR-Bioinformatics/monthlyMeetings"
 ---
 
 

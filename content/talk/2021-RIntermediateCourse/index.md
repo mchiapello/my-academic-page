@@ -12,7 +12,7 @@ summary: "How to step forward in your R analysis with biological samples"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-01-09"
-date_end: "2020-01-10"
+date_end: "2021-01-10"
 all_day: true
 
 categories:
