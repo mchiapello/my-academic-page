@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Senior Scientist"
-  company = "Institute for Sustainable Plant Protection, National Research Council,"
+  company = "Institute for Sustainable Plant Protection, National Research Council"
   company_url = "http://www.ipsp.cnr.it/?lang=en"
   location = "Italy"
   date_start = "2018-07-04"
