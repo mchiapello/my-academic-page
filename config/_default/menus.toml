@@ -28,10 +28,10 @@
   url = "/talks"
   weight = 46
 
-#[[main]]
-#  name = "Detail CV"
-#  url = "CustomCV/index.html"
-#  weight = 47
+[[main]]
+  name = "Detail CV"
+  url = "CustomCV/index.html"
+  weight = 47
 
 [[main]]
   name = "Contact"
