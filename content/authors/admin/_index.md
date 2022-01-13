@@ -10,8 +10,8 @@ role: Plant Biologist, Bioinformatician, Teacher
 
 # Organizations/Affiliations
 organizations:
-- name: Institute for Sustainable Plant Protection, National Research Council 
-  url: "http://www.ipsp.cnr.it/?lang=en"
+- name: Department of Life Sciences And Systems Biology, University of Turin
+  url: "https://dbiosen.campusnet.unito.it/do/home.pl"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am **currently working as Senior PostDoc** at the Institute for Sustainable Plant Protection (Italian National Research Council). My daily focus is on **bioinformatics analysis** and **method standardization** for plant and fungal virus identification from NGS samples. I am a big **supporter of reproducible and open research**. My main tools are R, git, vim and docker.
+I am **currently working as Senior PostDoc** at the Department of Life Sciences And Systems Biology (University of Turin). My daily focus is on **bioinformatics analysis** and **method standardization** for plant and fungal NGS samples. I am a big **supporter of reproducible and open research**. My main tools are R, git, vim and docker.
 I am a **curious person** and a **dedicated worker**, I love the challenges of **computational biology** and teaching the principle of **data analysis and visualization**.
 
