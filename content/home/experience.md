@@ -19,12 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Senior postDoc"
+  company = "Department of Life Sciences And Systems Biology, University of Turin"
+  company_url = "https://dbiosen.campusnet.unito.it/do/home.pl"
+  location = "Italy"
+  date_start = "2021-12-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Principal investigator of the project: "Mechanisms of gene regulation during the ericoid endomycorrhizal interaction"
+  * Bioinformatics analysis (shell, R, git)
+  * RNA-seq data analysis
+  """
+
+[[experience]]
   title = "Senior Scientist"
   company = "Institute for Sustainable Plant Protection, National Research Council"
   company_url = "http://www.ipsp.cnr.it/?lang=en"
   location = "Italy"
   date_start = "2018-07-04"
-  date_end = ""
+  date_end = "2021-11-03"
   description = """
   Responsibilities include:
   
