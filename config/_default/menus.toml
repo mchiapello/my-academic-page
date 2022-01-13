@@ -28,10 +28,10 @@
   url = "/talks"
   weight = 46
 
-[[main]]
-  name = "Detail CV"
-  url = "CustomCV/index.html"
-  weight = 47
+#[[main]]
+#  name = "Detail CV"
+#  url = "CustomCV/index.html"
+#  weight = 47
 
 [[main]]
   name = "Contact"
@@ -40,7 +40,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
-#[[main]]
-#   name = "CV"
-#   url = "media/cv.pdf"
-#   weight = 70
+[[main]]
+   name = "CV"
+   url = "media/cv.pdf"
+   weight = 70
