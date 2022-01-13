@@ -93,11 +93,11 @@ phone = "0039 348 91 50 367"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Strada delle cacce 73", city = "Torino", postcode = "10135", country = "Italy", country_code = "IT"}
+address = {street = "Orto Botanico - Viale Mattioli 25", city = "Torino", postcode = "10125", country = "Italy", country_code = "IT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.01622", longitude = "7.63862"}
+coordinates = {latitude = "45.05492561011784", longitude = "7.686510953199536"}
 
 # Directions for visitors to locate you.
 #directions = ""
