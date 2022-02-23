@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-02-23T16:23:11+01:00
+lastmod: 2022-02-23T16:43:45+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-23T15:23:07.010039Z'
+publishDate: '2022-02-23T15:43:44.357278Z'
 publication_types:
 - '2'
 abstract: The increasing dynamic functions of post-translational modifications (PTMs)
