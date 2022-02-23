@@ -11,7 +11,7 @@ summary: "How to analyse *in silico* biological sample"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-10-01"
-date_end: "2020-11-30"
+date_end: "2021-11-30"
 all_day: true
 
 categories:
